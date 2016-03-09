@@ -1,0 +1,20 @@
+informacion procesador de las pruebas:
+http://ark.intel.com/products/47663
+
+Kfactorizacion(1000000, 1000500, 4)
+
+# time python3 entregable4.py 
+
+real	1m11.715s
+user	1m11.300s
+sys	0m0.220s
+
+
+Kfactorizacion(5000, 5500, 3)
+
+# time python3 entregable4.py 
+
+real	0m0.405s
+user	0m0.388s
+sys	0m0.008s
+
